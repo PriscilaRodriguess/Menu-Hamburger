@@ -9,4 +9,3 @@
 
 - HTML
 - CSS
-- Git e Github
